@@ -9,7 +9,7 @@ This project simulates the multiple sleeping barbers problem using C++ and POSIX
 - [Design Diagram](#design-diagram)
 - [Classes and Functions](#classes-and-functions)
 - [Dependencies](#dependencies)
-- [Limitations and Possible Extensions](#)
+- [Limitations and Possible Extensions](#limitations-and-possible-extensions)
 
 ## Getting Started
 
