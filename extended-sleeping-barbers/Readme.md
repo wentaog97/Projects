@@ -61,7 +61,7 @@ The project uses mutexes and condition variables to synchronize the actions of b
 - Barbers wait for payment after servicing a customer before moving on to the next customer.
 
 ## Design Diagram
-![Design Diagram](extended-sleeping-barbers/Design.png)
+![Design Diagram](Design.png)
 
 ## Classes and Functions
 
